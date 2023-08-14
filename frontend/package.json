@@ -4,7 +4,7 @@
   "proxy": "http://127.0.0.1:8000",
   "private": true,
   "dependencies": {
-    "@stripe/react-stripe-js": "^1.4.1",
+    "@stripe/react-stripe-js": "^1.16.5",
     "@stripe/stripe-js": "^1.15.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
